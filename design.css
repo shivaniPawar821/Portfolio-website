@@ -317,19 +317,19 @@ h2{
         border-bottom: 0.5px solid rgb(255, 210, 155);
     }
     #amazon{
-        background-image: url("amazon-clone.jpg");
+        background-image: url("images/amazon-clone.jpg");
         background-size: cover;
     }
      #todo{
-        background-image: url("istockphoto-1746104990-612x612.jpg");
+        background-image: url("images/istockphoto-1746104990-612x612.jpg");
         background-size: cover;
     }
     #stopwatch{
-        background-image: url("Gridfiti_Blog_AestheticOnlineStopwatch_Toggl.jpg");
+        background-image: url("images/Gridfiti_Blog_AestheticOnlineStopwatch_Toggl.jpg");
         background-size: cover;
     }
     #portfolio{
-         background-image: url("desktop.avif");
+         background-image: url("images/desktop.avif");
         background-size: cover;
     }
     h4{
